@@ -1,28 +1,62 @@
-## Hi there, Suryox Here! 👋
+<h1 align="center">☠️ SURYOX666 ☠️</h1>
+<h3 align="center">Cyber Security • Bug Hunter • Full Stack Destroyer</h3>
 
-> *"No Hell Can Break Me, No Heaven Can Hold Me"*
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Feeding%20the%20Screen-black?style=for-the-badge&logo=skull&logoColor=red">
+  <img src="https://img.shields.io/badge/Mindset-Offensive-red?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Theme-Metal%20%26%20Dark-darkred?style=for-the-badge">
+</p>
 
-### 🚀 About Me
-- 💻 Passionate in web development & cybersecurity
-- 🛠️ Experienced with **Kali Linux, SQLMap**
-- 🌍 Find me on **[Instagram](https://instagram.com/suryox.void)**
+<p align="center">
+  🩸 <i>"The screen was hungry. I fed it without mercy."</i> 🩸
+</p>
 
-### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+---
 
-## 📊 GitHub Overview
+## 🩸 WHO AM I
+I don’t *test* systems.  
+I **stress them until they bleed vulnerabilities**.
 
-## 📊 GitHub Overview
+- ☠️ Cyber Security Enthusiast  
+- 🐞 Bug Hunter (Web Focused)  
+- 🕷️ Offensive Security Mindset  
+- 🧱 Frontend & Backend Engineer  
+- 🕶️ Dark mode is doctrine  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+## ⚔️ AREAS OF DESTRUCTION
 
+### 🩸 Cyber Security
+- XSS (Stored • Reflected • DOM)
+- SQL Injection
+- LFI / RFI
+- RCE
+- IDOR & Logic Flaws
+- Authentication Bypass
 
-📌 **Repositories:** [Suryox666](https://github.com/suryox666)
+### 🐞 Bug Hunting
+- Recon & Asset Discovery
+- Endpoint & Parameter Fuzzing
+- Custom Automation Tools
+- Clean, lethal reports
 
-💬 Feel free to connect and collaborate! 🚀
+### 🧱 Frontend
+- HTML • CSS • JavaScript
+- Security-aware UI
+- Secure DOM & Anti-XSS
+
+### 🩻 Backend
+- PHP • Python • REST API
+- Auth, Session & Access Control
+- Secure Architecture
+
+---
+
+## 🧰 WEAPONS OF CHOICE
+```txt
+Languages : Python | PHP | JavaScript | Bash
+Frontend  : HTML | CSS | JS
+Backend   : PHP | Python | REST API
+Security  : Burp Suite | Nmap | SQLmap | Metasploit
+OS        : Linux
