@@ -82,7 +82,7 @@ OS        : Linux | Windows
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&hide_border=true&title_color=ff0000)
 
