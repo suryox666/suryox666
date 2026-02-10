@@ -14,10 +14,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### 📊 GitHub Stats
-![Suryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&cache_seconds=1800)
+## 📊 GitHub Overview
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+</p>
 
 📌 **Repositories:** [Suryox666](https://github.com/suryox666)
 
