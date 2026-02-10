@@ -15,9 +15,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 📊 GitHub Stats
-![Suryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark)
+![Suryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&cache_seconds=1800)
 
 📌 **Repositories:** [Suryox666](https://github.com/suryox666)
 
