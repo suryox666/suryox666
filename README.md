@@ -19,6 +19,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark)
 
-📌 **Repositories:** [SuryoSC](https://github.com/suryox666)
+📌 **Repositories:** [Suryox666](https://github.com/suryox666)
 
 💬 Feel free to connect and collaborate! 🚀
