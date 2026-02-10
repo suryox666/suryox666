@@ -16,11 +16,12 @@
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
-</p>
+## 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
+
 
 📌 **Repositories:** [Suryox666](https://github.com/suryox666)
 
