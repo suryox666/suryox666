@@ -1,11 +1,11 @@
-## Hi there, I'm Suryo Saputro! 👋
+## Hi there, Suryox Here! 👋
 
 > *"No Hell Can Break Me, No Heaven Can Hold Me"*
 
 ### 🚀 About Me
 - 💻 Passionate in web development & cybersecurity
 - 🛠️ Experienced with **Kali Linux, SQLMap**
-- 🌍 Find me on **[Instagram](https://instagram.com/www39.srysptr.go.blok)**
+- 🌍 Find me on **[Instagram](https://instagram.com/suryox.void)**
 
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -15,10 +15,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 📊 GitHub Stats
-![Suryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuryoSC&show_icons=true&theme=dark)
+![Suryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryoSC&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark)
 
-📌 **Repositories:** [SuryoSC](https://github.com/SuryoSC)
+📌 **Repositories:** [SuryoSC](https://github.com/suryox666)
 
 💬 Feel free to connect and collaborate! 🚀
