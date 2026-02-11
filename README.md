@@ -74,25 +74,35 @@ OS        : Linux | Windows
 
 ## 📌 PINNED PROJECTS
 
-![AdminFinder](https://github-readme-stats.vercel.app/api/pin/?username=suryox666&repo=AdminFinder&theme=dark&hide_border=true&title_color=ff0000)
-![XScanner](https://github-readme-stats.vercel.app/api/pin/?username=suryox666&repo=XScanner&theme=dark&hide_border=true&title_color=ff0000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryox666&repo=AdminFinder&theme=dark&hide_border=true&title_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryox666&repo=XScanner&theme=dark&hide_border=true&title_color=ff0000" />
+</p>
 
-![diosSQLI](https://github-readme-stats.vercel.app/api/pin/?username=suryox666&repo=diosSQLI&theme=dark&hide_border=true&title_color=ff0000)
-![scraperTools](https://github-readme-stats.vercel.app/api/pin/?username=suryox666&repo=scraperTools&theme=dark&hide_border=true&title_color=ff0000)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&hide_border=true&title_color=ff0000)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryox666&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryox666&repo=diosSQLI&theme=dark&hide_border=true&title_color=ff0000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryox666&repo=scraperTools&theme=dark&hide_border=true&title_color=ff0000" />
+</p>
 
 ---
 
-Break what trusts itself.
-Respect what survives.
-Fear nothing behind a screen.
+## 📊 STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryox666&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryox666&layout=compact&theme=dark&hide_border=true&title_color=ff0000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryox666&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
+</p>
+
+---
+
+> Break what trusts itself. Respect what survives. Fear nothing behind a screen.
 
 ---
 
