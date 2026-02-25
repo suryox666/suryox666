@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://dl.kaskus.id/cdn.idntimes.com/content-images/post/20160421/seriouslyforreal-847b7dda442c3dda1789f45146f188a9.gif" width="100%" />
 </p>
 <h1 align="center">☠️ SURYOX666 ☠️</h1>
 <h3 align="center">Cyber Security • Bug Hunter • Full Stack Destroyer</h3>
@@ -74,6 +74,8 @@ OS        : Linux | Windows
 - 🩸 Bug Hunting Automation Tools
 
 ---
+
+## 📌 PINNED PROJECTS
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suryox666&repo=AdminFinder&theme=dark&hide_border=true&title_color=ff0000" />
