@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+</p>
 <h1 align="center">☠️ SURYOX666 ☠️</h1>
 <h3 align="center">Cyber Security • Bug Hunter • Full Stack Destroyer</h3>
 
@@ -72,7 +75,6 @@ OS        : Linux | Windows
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suryox666&repo=AdminFinder&theme=dark&hide_border=true&title_color=ff0000" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=suryox666&repo=XScanner&theme=dark&hide_border=true&title_color=ff0000" />
@@ -85,6 +87,7 @@ OS        : Linux | Windows
 
 ---
 
+## 📊 STATS
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suryox666&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000" />
@@ -100,7 +103,7 @@ OS        : Linux | Windows
 
 ---
 
-> No heaven can hold me, not hell can break me. <
+- No heaven can hold me, not hell can break me.
 
 ---
 
