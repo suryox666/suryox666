@@ -109,4 +109,4 @@ OS        : Linux | Windows
 
 ---
 
-<p align="center"> <a href="https://github.com/suryox666"> <img src="https://img.shields.io/badge/GitHub-suryox666-black?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://instagram.com/suryox.void"> <img src="https://img.shields.io/badge/Instagram-suryox666-black?style=for-the-badge&logo=instagram&logoColor=red"> </a> </p> <p align="center"> <b>Discord</b> : suryox#0000 &nbsp; | &nbsp; <b>Telegram</b> : @suryox </p>
+<p align="center"> <a href="https://github.com/suryox666"> <img src="https://img.shields.io/badge/GitHub-suryox666-black?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://instagram.com/suryox.void"> <img src="https://img.shields.io/badge/Instagram-suryox666-black?style=for-the-badge&logo=instagram&logoColor=red"> </a> </p> <p align="center"> <b>Discord</b> : suryox666 &nbsp; | &nbsp; <b>Telegram</b> : @suryox </p>
